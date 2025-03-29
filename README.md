@@ -10,7 +10,7 @@ I'm a passionate and experienced developer specializing in both front-end and ba
 - **Machine Learning, Deep Learning, ANN**
 - **Natural Language Processing (NLP)**
 - **TensorFlow and Keras**
-- **Front-end Development**: HTML, CSS, JavaScript, Bootstrap, jQuery
+- **Front-end Development**: HTML, CSS, JavaScript, Bootstrap, jQuery, React
 - **Back-end Development**: Django (Professional level)
 - **2D Game Development** with Pygame
 - **Image Processing** with OpenCV
