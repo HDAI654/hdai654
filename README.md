@@ -1,23 +1,14 @@
 # 👋 Hello, I'm Hamed Amiri
 
-I'm a passionate and experienced developer specializing in both front-end and back-end development, as well as software and AI development with Python.
+An experienced and skilled developer with a solid background in front-end and back-end development, as well as software engineering and artificial intelligence.
 
-## 🛠️ Skills
-
-### Programming Languages & Frameworks
+## 🛠️ Technical Skills
 - **Python Programming** (Professional level)
-- **Software Development** with PyQt5 and PySide6
-- **Machine Learning, Deep Learning, ANN**
+- **Software Development**: `PyQt5`, `PySide6`
+- **Machine Learning & Deep Learning**
 - **Natural Language Processing (NLP)**
-- **TensorFlow and Keras**
-- **Front-end Development**: HTML, CSS, JavaScript, Bootstrap, jQuery, React, Next.js
-- **Back-end Development**: Django (Professional level)
-- **2D Game Development** with Pygame
-- **Image Processing** with OpenCV
-
-### Design & Tools
-- **Photoshop** (Intermediate level)
-
+- **Front-end Development**: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `jQuery`, `React`, `Next.js`
+- **Back-end Development**: `Django`, `Flask` (Professional level)
 
 ## 📫 Contact Me
 - **Email**: [hdai.code@gmail.com](mailto:hdai.code@gmail.com)
@@ -25,10 +16,9 @@ I'm a passionate and experienced developer specializing in both front-end and ba
 - **Instagram**: [hdai6540](https://instagram.com/hdai6540)
 
 ## 🎯 Interests
-- Artificial Intelligence and Machine Learning
-- SoftWare Development (with python and Qt)
-- Web Development (Front-end & Back-end)
-- Game Development
+- Artificial Intelligence & Machine Learning
+- Software Development with Python & Qt
+- Full-Stack Web Development
 - Open Source Contributions
 
 ## 📊 GitHub Stats
@@ -39,4 +29,4 @@ I'm a passionate and experienced developer specializing in both front-end and ba
 ---
 
 ### 💡 Fun Fact
-I love solving complex problems and turning ideas into reality through code!
+I enjoy solving complex problems and transforming ideas into functional, elegant code.
