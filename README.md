@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hamed Amiri
+# I'm Hamed Amiri
 
 An experienced and skilled developer with a solid background in front-end and back-end development, as well as software engineering and artificial intelligence.
 
