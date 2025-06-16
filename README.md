@@ -1,13 +1,13 @@
 # Hamed Amiri
 
-An experienced and skilled developer with a solid background in front-end and back-end development, as well as software engineering and artificial intelligence.
+An experienced and skilled developer with a solid background in front-end and back-end development, software engineering and artificial intelligence.
 
 ## 🛠️ Technical Skills
 - **Python Programming** (Professional level)
 - **Software Development**: `PyQt5`, `PySide6`
 - **Machine Learning & Deep Learning**
 - **Natural Language Processing (NLP)**
-- **Front-end Development**: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `jQuery`, `React`, `Next.js`
+- **Front-end Development**: `React`, `Next.js`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `jQuery`
 - **Back-end Development**: `Django`, `Flask` (Professional level)
 
 ## 📫 Contact Me
