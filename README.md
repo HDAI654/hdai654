@@ -58,11 +58,7 @@ An experienced and skilled developer with a solid background in front-end and ba
 
 ---
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HDAI654&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HDAI654&layout=compact&theme=dark)
 
 ---
 
