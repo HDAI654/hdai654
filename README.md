@@ -1,4 +1,4 @@
-# Hamed Amiri
+۶# Hamed Amiri
 
 An experienced and skilled developer with a solid background in front-end and back-end development, software engineering and artificial intelligence.
 
@@ -44,8 +44,7 @@ An experienced and skilled developer with a solid background in front-end and ba
 
 - **Email**: [hdai.code@gmail.com](mailto:hdai.code@gmail.com)  
 - **Linkedin**: [hdai654](https://linkedin.com/in/hdai654)
-- **Telegram**: [@HDAIxx](https://t.me/HDAIxx)  
-- **Instagram**: [hdai6540](https://instagram.com/hdai6540)
+- **Telegram**: [@HDAIxx](https://t.me/HDAIxx)
 
 ---
 
