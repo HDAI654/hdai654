@@ -9,7 +9,7 @@ An experienced and skilled **Backend Developer** with a solid background in **so
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://camo.githubusercontent.com/8b881d3f5c08ca1a728a02285aff8693650830509c4189d0d6b4b335b10af4e9/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" alt="Django" width="30" height="30"/></a>
 <a href="https://go.dev/" target="_blank">
   <img src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" 
-       alt="Go" width="30" height="30"/>
+       alt="Go" width="50" height="50"/>
 </a>
 
 </p>
