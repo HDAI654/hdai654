@@ -39,7 +39,8 @@ An experienced and skilled **Backend Developer** with a solid background in **so
 
 ## 🎯 Interests
 
-- Artificial Intelligence & Machine Learning  
+- Machine Learning
+- Software architecture
 - Backend Development
 
 ---
