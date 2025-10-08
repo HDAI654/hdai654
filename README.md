@@ -29,8 +29,8 @@ An experienced and skilled **Backend Developer** with a solid background in **so
 ## 📫 Contact Me
 
 - **Email**: [hdai.code@gmail.com](mailto:hdai.code@gmail.com)  
-- **LinkedIn**: [hdai654](https://linkedin.com/in/hamed654)
-- **Telegram**: [@HDAIxx](https://t.me/HDAIxx)
+- **LinkedIn**: [hamed654](https://linkedin.com/in/hamed654)
+- **Telegram**: [@HDAI654](https://t.me/HDAI654)
 
 ---
 
