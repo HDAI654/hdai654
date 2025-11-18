@@ -1,6 +1,6 @@
 # Hamed Amiri
 
-An experienced and skilled **Backend Developer** with a solid background in **software architecture, software engineering, and front-end development**.
+An experienced and skilled **Backend Developer** with a solid background in **software architecture** and **software engineering**.
 
 ---
 
@@ -23,9 +23,9 @@ An experienced and skilled **Backend Developer** with a solid background in **so
 
 - **Python** – Advanced
 - **Go** – Advanced
-- **Front-end Development** – React, Next.js
-- **Back-end Development** – Go, Django, Flask, FastAPI (Professional level)
+- **Back-end Development** – Go, Django, FastAPI (Professional level)
 - **Databases** – MongoDB, SQLite, MySQL
+- **Front-end Development** – React, Next.js
 
 ---
 
@@ -39,7 +39,6 @@ An experienced and skilled **Backend Developer** with a solid background in **so
 
 ## 🎯 Interests
 
-- Machine Learning
 - Software architecture
 - Backend Development
 
