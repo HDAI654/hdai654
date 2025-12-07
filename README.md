@@ -25,7 +25,6 @@ An experienced and skilled **Backend Developer** with a solid background in **so
 - **Go** – Advanced
 - **Back-end Development** – Go, Django, FastAPI (Professional level)
 - **Databases** – MongoDB, SQLite, MySQL, PostgreSQL
-- **Front-end Development** – React, Next.js
 
 ---
 
