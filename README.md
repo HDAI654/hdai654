@@ -43,7 +43,7 @@ An experienced and skilled **Backend Developer** with a solid background in **so
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HDAI654&show_icons=true&theme=dark)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HDAI654&theme=react-dark)](https://github.com/HDAI654)
 
 ---
 
