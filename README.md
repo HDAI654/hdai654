@@ -1,53 +1,83 @@
-# Hamed Amiri
+# Hi, I'm Hamed Amiri 👋
 
-An experienced and skilled **Backend Developer** with a solid background in **software architecture** and **software engineering**.
+Backend Engineer focused on scalable systems, software architecture, and distributed applications.
 
----
-
-<p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30" height="30"/></a>
-<a href="https://go.dev/" target="_blank">
-  <img src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" 
-       alt="Go" width="50" height="50"/>
-</a>
-[FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-</p>
-<p>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/></a>
-    <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/></a>
-</p>
-
-## Technical Skills
-
-- **Python** – Advanced
-- **Go** – Advanced
-- **Back-end Development** – Go, Django, FastAPI (Professional level)
-- **Databases** – MongoDB, SQLite, MySQL, PostgreSQL
+I build high-performance backend services using Python, FastAPI, Django, Redis, Kafka, and GraphQL, with a strong interest in Clean Architecture, Event-Driven Systems, and Microservices.
 
 ---
 
-## 📫 Contact Me
-
-- **Email**: [kolbop.code@gmail.com](mailto:kolbop.code@gmail.com)  
-- **LinkedIn**: [hamed654](https://linkedin.com/in/hamed654/)
-- **Telegram**: [@HDAI654](https://t.me/HDAI654/)
-
----
-
-## 🎯 Interests
-
-- Software architecture
-- Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Strawberry GraphQL](https://img.shields.io/badge/Strawberry_GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HDAI654&theme=dark)
+## Engineering Focus
+
+* Designing scalable backend systems
+* Software Architecture & System Design
+* Distributed Systems & Event-Driven Architecture
+* API Development (REST, GraphQL, WebSockets)
+* Performance Optimization & Reliability
+* Clean Code and Maintainable Software
 
 ---
 
-### 💡 Fun Fact
+## Technology Stack
 
-I enjoy solving complex problems and transforming ideas into functional, elegant code.
+### Languages
+
+* Python
+
+### Frameworks & Libraries
+
+* FastAPI
+* Django
+* Django REST Framework (DRF)
+* Strawberry GraphQL
+* SQLAlchemy
+
+### Databases & Messaging
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* SQLite
+* Redis
+* Kafka
+
+### Architecture
+
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* Microservices
+* Event-Driven Architecture (EDA)
+
+### Testing & DevOps
+
+* Pytest
+* Docker & Docker Compose
+* CI/CD
+
+---
+
+## Connect With Me
+
+📧 Email: [kolbop.code@gmail.com](mailto:kolbop.code@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/hamed654
+
+💻 GitHub: https://github.com/HDAI654
+
+📨 Telegram: https://t.me/HDAI654
+
+🌐 Portfolio: https://hdai654.github.io
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HDAI654\&theme=github_dark)
+
+---
+
+> Building scalable backend systems, distributed architectures, and reliable software.
