@@ -11,6 +11,7 @@ An experienced and skilled **Backend Developer** with a solid background in **so
   <img src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" 
        alt="Go" width="50" height="50"/>
 </a>
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 </p>
 <p>
